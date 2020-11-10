@@ -119,4 +119,8 @@ class ServisController extends Controller
             ]);
         }
     }
+
+    public function cek(){
+        dd('tyrtyrtyr');
+    }
 }
